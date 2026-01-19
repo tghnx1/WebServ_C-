@@ -42,7 +42,7 @@ I also wanted a realistic environment to experiment with **AI-assisted coding** 
 
 ## How I used AI Coding Tools
 
-I used AI coding tools (Cursor / Claude) as a **pair programmer**, not as an automatic code generator.
+I used AI coding tools (GitHub Copilot Chat, Cursor) as a **pair programmer**, not as an automatic code generator.
 
 Specifically, I used AI for:
 - Discussing design trade-offs for config parsing and CGI execution.
